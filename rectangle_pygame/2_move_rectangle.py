@@ -4,8 +4,8 @@ import pygame
 # та інші константи
 FPS = 60
 
-WIDTH_DISPLAY = 200
-HEIGHT_DISPLAY = 200
+WIDTH_DISPLAY = 500
+HEIGHT_DISPLAY = 500
 
 WHITE_COLOR = (255, 255, 255)
 ORANGE_COLOR = (255, 150, 100)
@@ -15,7 +15,7 @@ COORD_X = 40
 COORD_Y = 40
 WIDTH_RECTANGLE = 40
 HEIGHT_RECTANGLE = 60
-DELTA_STEP = 5
+DELTA_STEP = 20
 
 # ініціалізація та створення об'єктів
 pygame.init()
